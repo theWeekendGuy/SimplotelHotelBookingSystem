@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SimplotelHotelBookingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimpotelHotelBookingApplication.class, args);
+		SpringApplication.run(SimplotelHotelBookingApplication.class, args);
 	}
 
 }
